@@ -1,0 +1,17 @@
+Bootstrap is like a toolkit that you can either download the source file from bootstrap.com and then add them to your project or copying the CDN and pasting it into your project code. 
+It is a free open source framework that allows you to build fast responsive sites. Responsive means that when the size of the window or screen changes the layout of the website moves accordingly to make it look good. 
+It is built on HTML, CSS and Javascript. 
+
+The advantages of using bootstrap is its ease of use, responsive features and compatibility with almost all browsers. It offers consistent design by using re-usable components like buttons, navbars and forms. 
+Bootstrap is based on a system of 12 columns you can apply to design them however you want. 
+You use container elements and are required when using the grid system. It is pretty much used to wrap content with some padding. 
+It is used to align the contents horizontally center on the page. Within each row, the columns widths will be a combination that adds up to 12 available columns. But it is not mandatory to use all 12 available columns.
+
+
+
+#links to articles for Bootstrap
+
+https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/
+
+https://www.hostinger.com/tutorials/what-is-bootstrap/
+
